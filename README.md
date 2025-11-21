@@ -85,7 +85,7 @@
 ## 📫 Contact Me  
 
 - 📧 Email: **bimsarakaushal2002@gmail.com**  
-- 💼 LinkedIn: *Updating Soon…*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/bimsara-kaushal-5a579b382?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 
 ---
 
