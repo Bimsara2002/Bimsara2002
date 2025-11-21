@@ -19,7 +19,7 @@
 ## 🎓 Education  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/32/NIBM_Logo.png" width="90" alt="NIBM Logo"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/en/3/32/NIBM_Logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fnibminternational%2F&psig=AOvVaw2qhKiRPFOhlj5MfHW16bn_&ust=1763801903771000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMCO_6DwgpEDFQAAAAAdAAAAABAE)" width="90" alt="NIBM Logo"/>
 </p>
 
 <p align="center">
