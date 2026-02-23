@@ -108,9 +108,10 @@
 ---
 
 <h3 align="center">My GitHub Stats</h3>
+
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&theme=dark&count_private=true&hide_border=true"
+       src="https://github-readme-stats.vercel.app/api?username=Bimsara2002&show_icons=true&theme=dark"
        alt="Bimsara GitHub Stats" />
 </p>
 
@@ -128,7 +129,8 @@
 <h3 align="center">Most Used Languages</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bimsara2002/Bimsara2002/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img height="250"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimsara2002&layout=compact&theme=dark&langs_count=8&hide_border=true" />
 </p>
 
 ---
