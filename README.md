@@ -107,9 +107,7 @@
 <h3 align="center">Most Used Languages</h3>
 
 <p align="center">
-  <img height="260"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimsara2002&layout=compact&theme=dark&langs_count=10"
-       alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/Bimsara2002/Bimsara2002/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 ---
