@@ -1,6 +1,6 @@
 <!-- ==========================================================
    BIMSARA KAUSHAL — PROFESSIONAL GITHUB PROFILE README
-   (No Pinned Projects section | Stats + Languages separate | Graph included)
+   (Fixed: Languages card like "Most Used Languages" bars)
 ========================================================== -->
 
 <!-- ✅ PROFESSIONAL BANNER (Animated Gradient) -->
@@ -108,8 +108,6 @@
 ---
 
 <h3 align="center">My GitHub Stats</h3>
-
-<!-- ✅ Stats only (separate) -->
 <p align="center">
   <img height="170"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&theme=dark&count_private=true&hide_border=true"
@@ -119,7 +117,6 @@
 ---
 
 <h3 align="center">GitHub Streak</h3>
-
 <p align="center">
   <img height="190"
        src="https://streak-stats.demolab.com?user=Bimsara2002&theme=dark&hide_border=true"
@@ -128,19 +125,18 @@
 
 ---
 
-<h3 align="center">Top Languages</h3>
+<h3 align="center">Most Used Languages</h3>
 
-<!-- ✅ Languages only (separate) -->
+<!-- ✅ This shows the bar-style language card like your screenshot -->
 <p align="center">
-  <img height="190"
+  <img height="330"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=10"
-       alt="Top Languages" />
+       alt="Most Used Languages" />
 </p>
 
 ---
 
 <h3 align="center">Contribution Graph</h3>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimsara2002&theme=dracula&hide_border=true" alt="Contribution Graph"/>
 </p>
