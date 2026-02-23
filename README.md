@@ -138,8 +138,6 @@
 </tr>
 </table>
 
-</div>
-
 ---
 
 <h3 align="center">Contribution Graph</h3>
