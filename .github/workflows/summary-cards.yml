@@ -5,7 +5,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
-# ✅ IMPORTANT: allow workflow to push commits
 permissions:
   contents: write
 
@@ -13,6 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # ✅ checkout repo so action can write files
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # ✅ generate & auto push output to your repo
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -20,3 +26,5 @@ jobs:
         with:
           USERNAME: Bimsara2002
           THEME: github_dark
+          BRANCH_NAME: main
+          AUTO_PUSH: true
