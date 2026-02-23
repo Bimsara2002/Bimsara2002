@@ -112,35 +112,35 @@
 
 <div align="center">
   <a href="https://github.com/Bimsara2002/Hotel-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Management-System&theme=dracula&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Management-System&theme=dracula&hide_border=true" />
   </a>
   <a href="https://github.com/Bimsara2002/smart-harbour-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=smart-harbour-system&theme=dracula&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=smart-harbour-system&theme=dracula&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Bimsara2002/hospital-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=hospital-management-system&theme=dracula&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=hospital-management-system&theme=dracula&hide_border=true" />
   </a>
   <a href="https://github.com/Bimsara2002/Finance-Management-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Finance-Management-App&theme=dracula&hide_border=true&cache_seconds=86400" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Finance-Management-App&theme=dracula&hide_border=true" />
   </a>
 </div>
 
 ---
 
-## 📊 My GitHub Stats  
+## 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimsara2002&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimsara2002&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" height="160" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimsara2002&theme=dracula&margin-w=10&margin-h=10&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bimsara2002&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=6" />
 </div>
 
 ---
