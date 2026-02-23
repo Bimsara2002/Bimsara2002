@@ -35,6 +35,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;React+Frontend+Engineer;Spring+Boot+REST+API+Developer;MySQL+Database+Designer;OOP+%7C+SOLID+%7C+Design+Patterns;Always+Learning+%E2%9A%A1+Always+Building" />
 </p>
 
+<!-- ✅ ADDITIONAL SOFTWARE ENGINEERING VIBE GIF (NEW) -->
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="420" alt="Coding Workspace GIF"/>
+</div>
+
+<br>
+
+<p align="center">
+  <i>Designing scalable systems • Writing clean code • Solving real-world problems</i>
+</p>
+
 ---
 
 ## 👨‍💻 About Me  
@@ -130,24 +141,42 @@
 
 ---
 
-## 📊 My GitHub Stats
-<div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&layout=compact&theme=dracula&hide_border=true" />
-</div>
+<h3 align="center">My Statistics</h3>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+  <!-- GitHub Main Stats -->
+  <img align="center"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&theme=dark&count_private=true&hide_border=true"
+       alt="Bimsara GitHub Stats" />
+
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <img title="🔥 GitHub Streak"
+       alt="GitHub Streak"
+       src="https://streak-stats.demolab.com?user=Bimsara2002&theme=dark&hide_border=true" />
+
+</td>
+
+<td width="50%" align="center">
+
+  <!-- Top Languages -->
+  <img align="center"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=10"
+       alt="Top Languages" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bimsara2002&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=6" />
-</div>
-
----
-
-## 🔥 GitHub Streak  
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bimsara2002&theme=dracula&hide_border=true" />
 </div>
 
 ---
