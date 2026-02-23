@@ -1,9 +1,8 @@
 <!-- ==========================================================
-   BIMSARA KAUSHAL — PROFESSIONAL GITHUB PROFILE README (NEW)
-   Keep your details + upgraded animations + new banner image
+   BIMSARA KAUSHAL — PROFESSIONAL GITHUB PROFILE README (FIXED)
 ========================================================== -->
 
-<!-- ✅ NEW PROFESSIONAL BANNER (Animated Gradient) -->
+<!-- ✅ PROFESSIONAL BANNER (Animated Gradient) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Bimsara%20Kaushal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
 </p>
@@ -11,7 +10,7 @@
 <h2 align="center">Hi 👋! I'm Bimsara Kaushal</h2>
 <p align="center"><b>Full Stack Developer • Java Enthusiast • React | Spring Boot</b></p>
 
-<!-- ✅ SOCIAL LINKS (Professional) -->
+<!-- ✅ SOCIAL LINKS -->
 <p align="center">
   <a href="https://www.linkedin.com/in/bimsara-kaushal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bimsara%20Kaushal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -26,7 +25,7 @@
 
 ---
 
-<!-- ✅ NEW HERO IMAGE (Software Engineering Vibe) -->
+<!-- ✅ HERO IMAGE -->
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Software Engineering GIF"/>
 </div>
@@ -71,6 +70,15 @@
 
 ---
 
+## 🦈 Achievements
+<p align="center">
+  <a href="https://github.com/users/Bimsara2002/achievements/pull-shark" target="_blank">
+    <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Skills & Technologies  
 
 ### **Languages**
@@ -102,23 +110,21 @@
 
 ## 📌 Pinned Projects (Recruiter View)
 
-> ✅ Change repo names if yours are different (repo names must match exactly)
-
 <div align="center">
-  <a href="https://github.com/Bimsara2002/LifeLink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=LifeLink&theme=dracula&hide_border=true" />
+  <a href="https://github.com/Bimsara2002/Hotel-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Management-System&theme=dracula&hide_border=true&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/Bimsara2002/Mobile-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Mobile-Store&theme=dracula&hide_border=true" />
+  <a href="https://github.com/Bimsara2002/smart-harbour-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=smart-harbour-system&theme=dracula&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/Bimsara2002/Hotel-Reservation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Reservation-System&theme=dracula&hide_border=true" />
+  <a href="https://github.com/Bimsara2002/hospital-management-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=hospital-management-system&theme=dracula&hide_border=true&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/Bimsara2002/Gym-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Gym-Management-System&theme=dracula&hide_border=true" />
+  <a href="https://github.com/Bimsara2002/Finance-Management-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bimsara2002&repo=Finance-Management-App&theme=dracula&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
 
@@ -126,15 +132,15 @@
 
 ## 📊 My GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimsara2002&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bimsara2002&layout=compact&theme=dracula&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bimsara2002&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&cache_seconds=86400" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimsara2002&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" height="160" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimsara2002&theme=dracula&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bimsara2002&theme=dracula&margin-w=10&margin-h=10&no-frame=true&column=6" />
 </div>
 
 ---
