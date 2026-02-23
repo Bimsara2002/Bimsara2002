@@ -128,109 +128,14 @@
 
 <h3 align="center">Most Used Languages</h3>
 
-<div align="center">
-
-<table width="600px">
+<table align="center">
 <tr>
-<td>Java</td>
-<td width="60%">
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:32.44%;background-color:#f1a116;height:10px;border-radius:10px;"></div>
-</div>
+<td width="50%" align="center">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&layout=compact&langs_count=10&hide_border=true"
+       alt="Top Languages" />
 </td>
-<td align="right">32.44%</td>
 </tr>
-
-<tr>
-<td>PHP</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:26.13%;background-color:#8892bf;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">26.13%</td>
-</tr>
-
-<tr>
-<td>C#</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:19.71%;background-color:#178600;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">19.71%</td>
-</tr>
-
-<tr>
-<td>CSS</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:8.40%;background-color:#563d7c;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">8.40%</td>
-</tr>
-
-<tr>
-<td>JavaScript</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:7.48%;background-color:#f1e05a;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">7.48%</td>
-</tr>
-
-<tr>
-<td>HTML</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:2.30%;background-color:#e34c26;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">2.30%</td>
-</tr>
-
-<tr>
-<td>C++</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:1.73%;background-color:#f34b7d;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">1.73%</td>
-</tr>
-
-<tr>
-<td>Kotlin</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:0.69%;background-color:#a97bff;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">0.69%</td>
-</tr>
-
-<tr>
-<td>Ruby</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:0.60%;background-color:#701516;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">0.60%</td>
-</tr>
-
-<tr>
-<td>Swift</td>
-<td>
-<div style="background-color:#2e2e2e;border-radius:10px;">
-<div style="width:0.52%;background-color:#ff5f4c;height:10px;border-radius:10px;"></div>
-</div>
-</td>
-<td align="right">0.52%</td>
-</tr>
-
 </table>
 
 </div>
