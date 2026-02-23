@@ -127,11 +127,8 @@
 
 <h3 align="center">Most Used Languages</h3>
 
-<!-- ✅ This shows the bar-style language card like your screenshot -->
 <p align="center">
-  <img height="330"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=10"
-       alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/Bimsara2002/Bimsara2002/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </p>
 
 ---
