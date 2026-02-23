@@ -1,5 +1,6 @@
 <!-- ==========================================================
    BIMSARA KAUSHAL — PROFESSIONAL GITHUB PROFILE README
+   (No Pinned Projects section | Stats + Languages separate | Graph included)
 ========================================================== -->
 
 <!-- ✅ PROFESSIONAL BANNER (Animated Gradient) -->
@@ -62,7 +63,6 @@
 ---
 
 ## 🏅 Certifications  
-
 - 🎖 Java Programming Certification  
 - 🎖 Web Development Bootcamp  
 - 🎖 Database Design & SQL Certification  
@@ -98,62 +98,59 @@
 
 ---
 
-## 📌 Pinned Projects
-
-<div align="center">
-  <a href="https://github.com/Bimsara2002/Hotel-Management-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Management-System&theme=dark&hide_border=true" />
+## 🦈 Achievements
+<p align="center">
+  <a href="https://github.com/users/Bimsara2002/achievements/pull-shark" target="_blank">
+    <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/Bimsara2002/smart-harbour-system">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=smart-harbour-system&theme=dark&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Bimsara2002/hospital-management-system">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=hospital-management-system&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Bimsara2002/Finance-Management-App">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Finance-Management-App&theme=dark&hide_border=true" />
-  </a>
-</div>
+</p>
 
 ---
 
-<h3 align="center">My Statistics</h3>
+<h3 align="center">My GitHub Stats</h3>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-  <img align="center"
+<!-- ✅ Stats only (separate) -->
+<p align="center">
+  <img height="170"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&theme=dark&count_private=true&hide_border=true"
        alt="Bimsara GitHub Stats" />
-       
-  <br><br>
+</p>
 
-  <img title="🔥 GitHub Streak"
-       alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=Bimsara2002&theme=dark&hide_border=true" />
+---
 
-</td>
+<h3 align="center">GitHub Streak</h3>
 
-<td width="50%" align="center">
+<p align="center">
+  <img height="190"
+       src="https://streak-stats.demolab.com?user=Bimsara2002&theme=dark&hide_border=true"
+       alt="GitHub Streak" />
+</p>
 
-  <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=8"
+---
+
+<h3 align="center">Top Languages</h3>
+
+<!-- ✅ Languages only (separate) -->
+<p align="center">
+  <img height="190"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=10"
        alt="Top Languages" />
+</p>
 
-</td>
-</tr>
-</table>
+---
+
+<h3 align="center">Contribution Graph</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimsara2002&theme=dracula&hide_border=true" alt="Contribution Graph"/>
+</p>
 
 ---
 
 ## 👀 Profile Views  
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bimsara2002&style=for-the-badge&color=blue" />
-</div>
+</p>
 
 ---
 
