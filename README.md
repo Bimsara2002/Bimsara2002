@@ -1,5 +1,5 @@
 <!-- ==========================================================
-   BIMSARA KAUSHAL — PROFESSIONAL GITHUB PROFILE README (FIXED)
+   BIMSARA KAUSHAL — PROFESSIONAL GITHUB PROFILE README
 ========================================================== -->
 
 <!-- ✅ PROFESSIONAL BANNER (Animated Gradient) -->
@@ -25,25 +25,16 @@
 
 ---
 
-<!-- ✅ HERO IMAGE -->
+<!-- ✅ ONE PROFESSIONAL SOFTWARE ENGINEERING GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" alt="Software Engineering GIF"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" alt="Professional Coding GIF"/>
 </div>
 
-<!-- ✅ TYPING ANIMATION (Software Engineering Style) -->
+---
+
+<!-- ✅ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;React+Frontend+Engineer;Spring+Boot+REST+API+Developer;MySQL+Database+Designer;OOP+%7C+SOLID+%7C+Design+Patterns;Always+Learning+%E2%9A%A1+Always+Building" />
-</p>
-
-<!-- ✅ ADDITIONAL SOFTWARE ENGINEERING VIBE GIF (NEW) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="420" alt="Coding Workspace GIF"/>
-</div>
-
-<br>
-
-<p align="center">
-  <i>Designing scalable systems • Writing clean code • Solving real-world problems</i>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;React+Frontend+Engineer;Spring+Boot+REST+API+Developer;MySQL+Database+Designer;OOP+%7C+SOLID+%7C+Design+Patterns" />
 </p>
 
 ---
@@ -59,7 +50,7 @@
 
 ## 🎓 Education  
 <p align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.tgJpLbVkD5-f0g7-jos0JwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="90" alt="NIBM Logo"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.tgJpLbVkD5-f0g7-jos0JwHaHa?rs=1&pid=ImgDetMain&o=7" width="90" alt="NIBM Logo"/>
 </p>
 
 <p align="center">
@@ -71,7 +62,6 @@
 ---
 
 ## 🏅 Certifications  
-> Replace these with your real certificates + links
 
 - 🎖 Java Programming Certification  
 - 🎖 Web Development Bootcamp  
@@ -81,61 +71,50 @@
 
 ---
 
-## 🦈 Achievements
-<p align="center">
-  <a href="https://github.com/users/Bimsara2002/achievements/pull-shark" target="_blank">
-    <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🚀 Skills & Technologies  
 
-### **Languages**
+### Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
+
+### Frameworks & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 </p>
 
 ---
 
-### **Frameworks & Tools**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📌 Pinned Projects (Recruiter View)
+## 📌 Pinned Projects
 
 <div align="center">
   <a href="https://github.com/Bimsara2002/Hotel-Management-System">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Management-System&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Hotel-Management-System&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/Bimsara2002/smart-harbour-system">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=smart-harbour-system&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=smart-harbour-system&theme=dark&hide_border=true" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Bimsara2002/hospital-management-system">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=hospital-management-system&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=hospital-management-system&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/Bimsara2002/Finance-Management-App">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Finance-Management-App&theme=dracula&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Bimsara2002&repo=Finance-Management-App&theme=dark&hide_border=true" />
   </a>
 </div>
 
@@ -147,14 +126,12 @@
 <tr>
 <td width="50%" align="center">
 
-  <!-- GitHub Main Stats -->
   <img align="center"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bimsara2002&show_icons=true&theme=dark&count_private=true&hide_border=true"
        alt="Bimsara GitHub Stats" />
-
+       
   <br><br>
 
-  <!-- GitHub Streak -->
   <img title="🔥 GitHub Streak"
        alt="GitHub Streak"
        src="https://streak-stats.demolab.com?user=Bimsara2002&theme=dark&hide_border=true" />
@@ -163,28 +140,13 @@
 
 <td width="50%" align="center">
 
-  <!-- Top Languages -->
   <img align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=10"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bimsara2002&theme=dark&hide_border=true&layout=compact&langs_count=8"
        alt="Top Languages" />
 
 </td>
 </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimsara2002&theme=dracula&no-frame=true&margin-w=10&margin-h=10&column=6" />
-</div>
-
----
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimsara2002&theme=dracula&hide_border=true" />
-</div>
 
 ---
 
@@ -197,24 +159,13 @@
 
 ## 📫 Contact Me  
 - 📧 Email: **bimsarakaushal2002@gmail.com**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/bimsara-kaushal**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/bimsara-kaushal**
 
 ---
 
-## 💬 Feedback  
-Always open to **feedback, ideas, and collaboration** 🤝  
-Feel free to reach out anytime!
+⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*
 
----
-
-## 🌟 Fun Fact  
-⚡ *Every line of code builds the future.*
-
----
-
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
-
-<!-- ✅ FOOTER LINE (Wave) -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
